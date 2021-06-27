@@ -1,0 +1,9 @@
+﻿  SUPRAN_F_K_LAB_6.cpp
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(58,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(63,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(117,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(141,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(165,36): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6\SUPRAN_F_K_LAB_6.cpp(66): warning C4715: func2_1: значение возвращается не при всех путях выполнения
+  SUPRAN_F_K_LAB_6.vcxproj -> D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_6\Debug\SUPRAN_F_K_LAB_6.exe
